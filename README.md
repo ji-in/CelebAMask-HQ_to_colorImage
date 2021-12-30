@@ -10,8 +10,13 @@ I found a github page that has those codes. Although I could visit that page dir
 
 ## Codes
 
-* merge_mask.py - [link]
-* get_color.py - [link]
+* merge_mask.py - [link](https://github.com/ji-in/CelebAMask-HQ_to_colorImage/blob/main/merge_mask.py)
+
+  It merges masks
+
+* get_color.py - [link](https://github.com/ji-in/CelebAMask-HQ_to_colorImage/blob/main/get_color.py)
+
+  It colors masks by component(eyes, lips, skin, ...)
 
 ## Reference
 
