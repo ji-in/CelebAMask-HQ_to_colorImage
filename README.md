@@ -16,7 +16,7 @@ I found a github page that has those codes. Although I could visit that page dir
 
 * get_color.py - [link](https://github.com/ji-in/CelebAMask-HQ_to_colorImage/blob/main/get_color.py)
 
-  It colors masks by component(eyes, lips, skin, ...)
+  It colors masks by components(eyes, lips, skin, ...)
 
 ## Reference
 
